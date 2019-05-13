@@ -21,7 +21,7 @@ session_start();
 		<link type="text/css" rel="stylesheet" href="css/slick.css"/>
 		<link type="text/css" rel="stylesheet" href="css/slick-theme.css"/>
 
-		<!-- nouislider -->
+		<!-- nouislider -->s
 		<link type="text/css" rel="stylesheet" href="css/nouislider.min.css"/>
 
 		<!-- Font Awesome Icon -->
